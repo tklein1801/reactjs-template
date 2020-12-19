@@ -1,0 +1,15 @@
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
+force = false
+[[redirects]]
+from = "/About"
+to = "/About"
+status = 200
+force = false
+[[redirects]]
+from = "/Contact"
+to = "/Contact"
+status = 200
+force = false
